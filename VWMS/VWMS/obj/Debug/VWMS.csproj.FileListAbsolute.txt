@@ -1,0 +1,9 @@
+D:\visual studio 2013\Projects\VWMS\VWMS\bin\Debug\VWMS.exe
+D:\visual studio 2013\Projects\VWMS\VWMS\bin\Debug\VWMS.pdb
+D:\visual studio 2013\Projects\VWMS\VWMS\obj\Debug\VWMS.csprojResolveAssemblyReference.cache
+D:\visual studio 2013\Projects\VWMS\VWMS\obj\Debug\VWMS.frmLogin.resources
+D:\visual studio 2013\Projects\VWMS\VWMS\obj\Debug\VWMS.Properties.Resources.resources
+D:\visual studio 2013\Projects\VWMS\VWMS\obj\Debug\VWMS.csproj.GenerateResource.Cache
+D:\visual studio 2013\Projects\VWMS\VWMS\obj\Debug\VWMS.exe
+D:\visual studio 2013\Projects\VWMS\VWMS\obj\Debug\VWMS.pdb
+D:\visual studio 2013\Projects\VWMS\VWMS\obj\Debug\VWMS.frmMain.resources
